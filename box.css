@@ -1,0 +1,23 @@
+
+
+h6{
+    color: brown;
+    font-size: 20px;
+}
+
+
+.mybox{
+    font-size: 20px;
+    color: black;
+    padding: 50px;
+    border:15px solid red;
+    width: 200px;
+    background-color: aqua;
+    margin-bottom: 30px;
+}
+
+#mybox2{
+    color: blue;
+}
+
+# is used for id

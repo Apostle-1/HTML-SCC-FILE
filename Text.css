@@ -1,0 +1,33 @@
+
+
+.text{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: left;
+    font-size:40px ;
+    line-height: 60px; 
+    margin-bottom: 5;   
+}
+
+.view{
+    font-family: Arial;
+    font-size: 20px;
+    color: red;
+    margin-top: 0;
+}
+
+.shop{
+    font-size: 20px;
+    background-color: red;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    width: 600px;
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
